@@ -5,7 +5,7 @@ Hey 👋,
 I am **Bhushan**, a software engineer with strong proficiency in computer security and applied security research.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhushan-patil-a858891b2/" target="_blank">Profile</a>  /  <a href="https://twitter.com/bhushan" target="_blank">Social</a>  /  <a href="https://bhushanmpatil.com/blog/" target="_blank">Blog</a>  /  <a href="https://ugploffice.in" target="_blank">Services</a>
+  <a href="https://www.linkedin.com/in/bhushan-patil-a858891b2/" target="_blank">Profile</a>  /  <a href="https://twitter.com/bhushan" target="_blank">Social</a>  /  <a href="https://bhushanpatil.dev/blog/" target="_blank">Blog</a>  /  <a href="https://ugploffice.in" target="_blank">Services</a>
 </p>
 
 
